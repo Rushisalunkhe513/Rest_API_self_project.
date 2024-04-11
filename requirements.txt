@@ -1,0 +1,11 @@
+Flask==3.0.2 # flask is framework.framework is collection of module,pre-written code and libraries that reuired to build application nd simplify application building and implement best practices. 
+flask-smorest==0.43.0  # flask_smorest is library that allows app routing nd gathering of app routes and pagination and filtering.
+Flask-JWT-Extended==4.6.0 # flask-jwt-extende is jwt creation,verification library used for authenticating and uthorization.
+Flask-SQLAlchemy==3.1.1 # flask_sqlalchemy is ORM object to connect with database and perform operation on it.
+Flask-Migrate==4.0.7 # flask-migrate is library that apply changes made in application to database.
+passlib==1.7.4 # passlib is password hashing libarary.
+marshmallow==3.21.1 # marshamllow is schema and data validation library.
+python-dotenv==1.0.1 # dotenv library help to load data from .env file
+psycopg2 # this is driver for ostgresql database.
+Flask-Cors==4.0.0 # used to imply cors(limiting incomin request to our database by giving ip)
+pre-commit==3.7.0 # managing library.
